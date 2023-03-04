@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "7xbEQEtcG9gj7CeGBEHVZyjQiQMafe7AYEwibQZ7NLJe"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "xApiKey": "mw_Dc9EwXFi6lBXVjMHc3iW1x26DwT3TbdWLVJ",
+  "serviceFee": "4.25",
+  "currencyOption": "SOL",
+  "name": "Adexe Mabar Store",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg",
+  "network": "mainnet"
 }
